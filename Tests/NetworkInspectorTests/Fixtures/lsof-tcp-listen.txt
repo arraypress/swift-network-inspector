@@ -1,0 +1,12 @@
+COMMAND    PID          USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+rapportd  1008 me   12u  IPv4 0x7c8e436c6813b467      0t0  TCP *:49188 (LISTEN)
+rapportd  1008 me   13u  IPv6 0x2a0eb4be96291509      0t0  TCP *:49188 (LISTEN)
+ControlCe 1140 me   10u  IPv4 0xa5e29819437d276e      0t0  TCP *:7000 (LISTEN)
+ControlCe 1140 me   11u  IPv6 0x1aa7dee40e793192      0t0  TCP *:7000 (LISTEN)
+ControlCe 1140 me   12u  IPv4 0x5e98ebd73e66d91b      0t0  TCP *:5000 (LISTEN)
+ControlCe 1140 me   13u  IPv6 0x4672d8b77a500f9f      0t0  TCP *:5000 (LISTEN)
+Dropbox   1398 me  213u  IPv4 0xc4d5d7e11d0b7292      0t0  TCP 127.0.0.1:17600 (LISTEN)
+Dropbox   1398 me  220u  IPv4 0xbf1198ad4a46bf9a      0t0  TCP 127.0.0.1:17603 (LISTEN)
+Spotify   1402 me   79u  IPv4 0x23069e968b0ff1c6      0t0  TCP 127.0.0.1:7768 (LISTEN)
+Spotify   1402 me   93u  IPv4 0xca46d473ef41fad8      0t0  TCP *:57621 (LISTEN)
+DropboxFi 1505 me   34u  IPv4 0x85c1debf54839728      0t0  TCP *:17500 (LISTEN)

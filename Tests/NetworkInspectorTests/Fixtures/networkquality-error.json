@@ -1,0 +1,14 @@
+
+{
+  "cli_options" : [
+    "-c",
+    "-C",
+    "file:///nonexistent/config.json"
+  ],
+  "draft_version" : 8,
+  "end_date" : "2026-10-18 22:32:29.884",
+  "error_code" : -1100,
+  "error_domain" : "NSURLErrorDomain",
+  "os_version" : "Version 27.0.1 (Build 26A434)",
+  "start_date" : "2026-10-18 22:32:29.872"
+}
